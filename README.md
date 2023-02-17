@@ -1,22 +1,16 @@
-### *Ancient Greece: 6th century AD*
-
-**Colchis, Thursday June 15th**
-
-In the luxury palace of Colchis, Pollux, your Front-end Developer, and Serverux, your Back-end Developer are just like small children, all excited and bickering in the large corridors.
-
-The king gave you the best high tech equipment: 50 computers and a server room, all connected to the FCFC (Fast Colchis Fiber-optic Cable), the best network of ancient Greece.
-
-You have no time to waste, the Demo Day where you will present the last version is planned for Friday night and 3 500 famous people have already been invited (Anna Stepanoff, the President of the most famous tech school in Europe is one of them!)
-
-Pollux already started designing the structure of the website and what features should be included. You are brainstorming ideas on how to go about coding the website and bringing it to life.
-```
+> ### *Ancient Greece: 6th century AD*
+>
+> **Colchis, Thursday June 15th**
+>
+> In the luxury palace of Colchis, Pollux, your Front-end Developer, and Serverux, your Back-end Developer are just like small children, all excited and bickering in the large corridors.
+>
+> The king gave you the best high tech equipment: 50 computers and a server room, all connected to the FCFC (Fast Colchis Fiber-optic Cable), the best network of ancient Greece.
+>
+> You have no time to waste, the Demo Day where you will present the last version is planned for Friday night and 3 500 famous people have already been invited (Anna Stepanoff, the President of the most famous tech school in Europe is one of them!)
+>
+> Pollux already started designing the structure of the website and what features should be included. You are brainstorming ideas on how to go about coding the website and bringing it to life.
 
 ![image](https://storage.googleapis.com/quest_editor_uploads/YnCNCgNpjaPywmrdc5bBL0t7vSTWhZQe.jpg)
-
-```title-folder
-The technical challenge:
-
-```
 
 ### **What you have to do**
 
